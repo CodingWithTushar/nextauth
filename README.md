@@ -1,5 +1,22 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+This repository demonstrates robust authentication solutions in Next.js using useSession, server-side authentication, and NextAuth. Key topics covered include:
+
+useSession Hook: Managing user sessions with ease in client-side and server-side contexts.
+Server-Side Authentication: Ensuring secure handling of user authentication on the server.
+NextAuth Integration: Setting up and configuring NextAuth for a seamless authentication experience.
+Credential Providers: Implementing custom authentication flows using Credential Providers in NextAuth.
+Dynamic Module Integration: Modularizing authentication logic for flexibility and reusability.
+Features
+Secure login and session management.
+Modular and scalable authentication setup.
+Examples of both client-side and server-side authentication flows.
+Tech Stack
+Next.js
+NextAuth
+React
+Explore the code to understand how to build a secure and modular authentication system in a modern web application.
+
 ## Getting Started
 
 First, run the development server:
